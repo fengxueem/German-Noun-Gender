@@ -27,11 +27,12 @@ Making anki decks from scratch is a heavy load of work. Thank everyone for helpi
 
 <details>
 <summary>中文</summary>
-制作 anki 牌组是一项费事费力的工作，感谢所以参与牌组记录，翻译，校对的同鞋。同时，特殊历史节点，想啰嗦一嘴，武汉加油！
+制作 anki 牌组是一项费事费力的工作，感谢所以参与牌组记录，翻译，校对的童鞋。同时，特殊历史节点，想啰嗦一嘴，武汉加油！
 </details>
 
 | book | chapter | participants(Listed in alphabetical order) |
 | ------------ | ------------ | ------------ |
-| 走进德国A1 | Lection 10 | 谈欢欢 |
-| 走进德国A2 | Lection 11.. 20 | 蔡伟 梁洪智 刘奇奇 |
+| Passwort Deutsch A1 | Lection 10 | 谈欢欢 |
+| Passwort Deutsch A2 | Lection 11.. 20 | @Kris-24 @LiangHongZhi 刘奇奇 |
+| Passwort Deutsch B1 | Lection 21.. 30 | @Kris-24 黄方圆 黄竞莹 @LiangHongZhi 刘奇奇 |
 
