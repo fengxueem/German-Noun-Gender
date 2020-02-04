@@ -27,7 +27,7 @@ Making anki decks from scratch is a heavy load of work. Thank everyone for helpi
 
 <details>
 <summary>中文</summary>
-制作 anki 牌组是一项费事费力的工作，感谢所以参与牌组记录，翻译，校对的童鞋。同时，特殊历史节点，想啰嗦一嘴，武汉加油！
+制作 anki 牌组是一项费事费力的工作，感谢所有参与牌组记录，翻译，校对的童鞋。同时，特殊历史节点，想啰嗦一嘴，武汉加油！
 </details>
 
 | book | chapter | participants(Listed in alphabetical order) |
