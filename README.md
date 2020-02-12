@@ -27,7 +27,7 @@ Making anki decks from scratch is a heavy load of work. Thank everyone for helpi
 
 <details>
 <summary>中文</summary>
-制作 anki 牌组是一项费事费力的工作，感谢所有参与牌组记录，翻译，校对的童鞋。同时，特殊历史节点，想啰嗦一嘴，武汉加油！
+制作 anki 牌组是一项费事费力的工作，感谢所有参与牌组记录，翻译，校对的童鞋。
 </details>
 
 | book | chapter | participants(Listed in alphabetical order) |
@@ -35,4 +35,13 @@ Making anki decks from scratch is a heavy load of work. Thank everyone for helpi
 | Passwort Deutsch A1 | Lection 10 | 谈欢欢 |
 | Passwort Deutsch A2 | Lection 11.. 20 | @Kris-24 @LiangHongZhi 刘奇奇 |
 | Passwort Deutsch B1 | Lection 21.. 30 | @Kris-24 黄方圆 黄竞莹 @LiangHongZhi 刘奇奇 |
+| Berliner Platz 1 | Kapitel 1.. 12 | 黄竞莹 |
 
+# COVID-19
+**IamChina** | **IchbinChina** | **中国加油**  
+During this special peroid of time in China, we are not able to go outside or walk around the city. Everyone participating this repo is grounded in his/her apartment staying with families. We are safe from the virus for now and staying inside is our way of fighting the virus. 
+
+<details>
+<summary>中文</summary>
+戮力同心
+</details>
