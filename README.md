@@ -37,6 +37,7 @@ Making anki decks from scratch is a heavy load of work. Thank everyone for helpi
 | Passwort Deutsch B1 | Lection 21.. 30 | 黄方圆 @Jingying888 @Kris-24 @LiangHongZhi 刘奇奇 |
 | Berliner Platz 1 | Kapitel 1.. 12 | @Jingying888 |
 | Berliner Platz 2 | Kapitel 13.. 24 | @Jingying888 @open11012 |
+| Berliner Platz 3 | Kapitel 25.. 36 | @Jingying888 |
 
 # COVID-19
 **IamChina** | **IchbinChina** | **中国加油**  

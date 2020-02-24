@@ -2,6 +2,7 @@
 | ------------ | ------------ | 
 | Berliner Platz 1 | 1097 | 
 | Berliner Platz 2 | 995 | 
+| Berliner Platz 3 | 932 | 
 
 You’re not going to master the rest of your life in one day. Just relax. Master the day.
 
