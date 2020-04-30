@@ -43,7 +43,7 @@ Making anki decks from scratch is a heavy load of work. Thank everyone for helpi
 # COVID-19
 **IamChina** | **IchbinChina** | **中国加油**  
 During this special peroid of time in China, we are not able to go outside or walk around the city. Everyone participating this repo is grounded in his/her apartment staying with families. We are safe from the virus for now and staying inside is our way of fighting the virus. 
-
+Personally, I do think we as humankind are doing better than 100 years ago. Again, science and education stand in a stronger position during this pandenmic. And learning a new language also gives me one more powerful tool to observe, to pray and to face a bright future.
 <details>
 <summary>中文</summary>
 戮力同心

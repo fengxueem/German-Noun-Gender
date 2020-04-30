@@ -1,6 +1,6 @@
 | Book | # of Nouns |
 | ------------ | ------------ | 
-| Berliner Platz 1 | 1097 | 
+| Berliner Platz 1 | 1095 | 
 | Berliner Platz 2 | 995 | 
 | Berliner Platz 3 | 932 | 
 | Berliner Platz 4 | 1212 |
