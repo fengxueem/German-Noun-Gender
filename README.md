@@ -1,3 +1,6 @@
+<div align="center">
+<img src="media/log.jpg" width="1000" />
+</div>
 # German-Noun-Gender
 Multiple anki apkg files are documented here that contain german nouns with colorized gender. You may want to try these out when learning german for the first time. And if you are not familiar with anki, check [this](https://apps.ankiweb.net/docs/manual.html) out and google it for yourself. Anki is the best tool I can find to help improving memory of german nouns gender.
 
