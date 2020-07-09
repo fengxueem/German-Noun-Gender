@@ -2,7 +2,7 @@
 | ------------ | ------------ | 
 | Passwort Deutsch A1 | 647 | 
 | Passwort Deutsch A2 | 1246 |
-| Passwort Deutsch B1 | 1147 |
+| Passwort Deutsch B1 | 1146 |
 
 Once you finish this folder, it's pretty safe to announce that you are no longer a ROOKIE on German. Just remember **Practice makes pefection**.
 
